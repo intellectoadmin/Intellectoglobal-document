@@ -1,0 +1,14 @@
+NAVAPREET
+Navpreet Singh
+Sr.Python Developer
+https://www.linkedin.com/in/navpreet-singh-7b89b3224/
+US Citizen
+PLACE :  FREMONT , CALIFORNIA
+Email: navpreetpython@gmail.com; Ph: 5102798688
+Education: - University of Phoenix ~ MBA 2009; Bachelors in Business Administration 2006.
+
+hi all , i am Navpreet Singh  ,I am currently staying in Austin Texas. I live in feramont , CALIFORNINA , 
+Around 9+ of experience as a Python Developer in Design, Development, Implementation of Python, Django, Flask,
+ Pyramid and client-server technologies-based applications, RESTful services, AWS and SQL.
+Experience in all phases of SDLC Process across various workflows (Requirement study,
+ Analysis, Design, Coding, Testing, Deployment and Maintenance) in Web & Client/Server application development.

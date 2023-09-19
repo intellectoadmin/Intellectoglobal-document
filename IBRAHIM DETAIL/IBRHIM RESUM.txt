@@ -1,0 +1,126 @@
+Sr.Python Developer
+ HYPERLINK "https://www.linkedin.com/in/ibrahim-ali-865548227/" https://www.linkedin.com/in/ibrahim-ali-865548227/
+Canada PR
+Email:  HYPERLINK "mailto:ali.mohammed.sqlbi@gmail.com" \h ibrahim.dev5854@gmail.com; Ph. 437-702-5854
+ 
+PROFESSIONAL SUMMARY:
+Around 7+ of experience as a Python Developer in Design, Development, Implementation of Python, Django, Flask, Pyramid and client-server technologies-based applications, RESTful services, AWS and SQL.
+Experience in all phases of SDLC Process across various workflows (Requirement study, Analysis, Design, Coding, Testing, Deployment and Maintenance) in Web & Client/Server application development.
+Extensive experience in developing web applications using Python, Django, Flask, Pyramid, Sanic frameworks and with several python libraries including Beautiful soup, Twisted, NumPy, Pandas, matplotlib, SciPy, PyQt, Scrapy, SQLAlchemy, Boto, logging, Nose, Blaze, Hug.
+Good experience in developing web applications using Django, Flask, web application frameworks, with good understanding of Django ORM and SQLAlchemy. 
+Hands-on experience with industry-standard IDEs like PyCharm, Sublime, Emacs, Eclipse, NetBeans, Intellij, and TOAD.
+Extensive experience in developing applications by implementation of web based and client/server application using HTML, React JS,  Bootstrap, PHP, CSS, JavaScript, Bootstrap, D3.js.
+Good experience in Shell Scripting, Oracle RDBMS, SQL Server, UNIX and Linux.
+Good knowledge of TCP/IP, UDP, HTTP, HTTPS, SSH and SSL protocols.
+Expert at version control systems like Git, SVN and CVS, Migrated repos from SVN to Github.
+Experienced in requirement gathering, use case development, Business Process flow, Business Process Modeling: extensively used UML to develop various use cases, class diagrams and sequence diagrams.
+Proficient in writing SQL Queries, Stored procedures, functions, packages, tables, views, triggers using relational databases like Oracle, MySQL and MSSQL Server.
+Have Data warehousing experience in Business Intelligence Technologies and Database with extensive Knowledge in Data analysis, TSQL queries, ETL, Reporting Services (using SSRS, Power BI) and Analysis Services using SQL Server. 
+Experienced with databases using ORMs/DOMs for integrating with MySQL, Postgres, MongoDB and SQLite. Also, experienced with writing custom queries through database connectors.
+Good Experience in Linux Bash scripting and following PEP Guidelines in Python.
+Experience in developing consumer-based features and applications using Python, Django, HTML, Behavior Driven Development (BDD) and pair-based` programming.
+Expertise in using Django evolution and manual SQL modifications, able to modify Django models while retaining all data, while site was in production mode.
+Experience in using Request library and JSON to interact with Rest services and in interacting with Database.
+Experience in Unit testing, System Integration testing (SIT), User acceptance testing (UAT), Functional testing.
+Experience in all phases of SDLC like Requirement Analysis, Implementation and Maintenance, and extensive experience with Agile and SCRUM.
+Highly motivated, quality minded developer, with proven ability to deliver applications against tight deadlines.
+
+TECHNICAL SKILLS:
+LanguagesPython, Java, SQL, PL/SQL.IDE’sPyCharm, Eclipse, NetBeans, Sublime, SOAP UIWeb Technologies & CloudDjango, Flask, Pyramid, AJAX, HTML5, CSS3, XML/XSD, XPath, XSLT,React JS, JavaScript, jQuery, Web Services (Soap, Restful), Amazon Webservices like EC2, S3, ELB, EBS, PyUnit; Azure.DatabasesSQL Server, Oracle 9i/10g/11g, MySQL, PostgreSQL, SQLite, Cassandra.FrameworksDjango, Flask, Bootstrap, CherryPy, web2py, Pyramid, RobotWeb ServersJBoss, BEA Web Logic, Web Sphere, Apache Tomcat Version ControlsSVN, CVS, Git.Operating SystemsMS Windows, Linux/UnixBuilding & Bug Tracking ToolsANT, MAVEN, UML, JIRA, BugzillaMethodologiesAgile, Scrum, WaterfallPROFESSIONAL EXPERIENCE:
+Client: BDO 	                                                                                                                        Nov 2019 - Till Date  
+Role: Sr.Python Developer        
+Responsibilities:
+Gathering requirements and translating the business details into Technical design.
+Implemented responsive user interface and standards throughout the development and maintenance of the website using the HTML, CSS, JavaScript, Bootstrap, JQuery.
+Developed views and templates with Python and Django's to create a user-friendly website interface.
+Developed and tested many features for dashboard using Python, HTML, JavaScript, CSS and Bootstrap, 
+Utilized Python libraries like wxPython, NumPy, Twisted, PyQT, Web2py, Pygal, and Plot.ly. 
+Developed various API’s for Django applications using Django-tastypie.
+Used Amazon Elastic Beanstalk with Amazon EC2 instance to deploy Django project into AWS. Configured continuous integration with Jenkins on Amazon EC2.
+Implemented SQLAlchemy as ORM mapping tool for complete access and Wrote SQL queries and maintained PostgreSQL RDBMS in the local development environment.
+Wrote and executed various MySQL database queries from python using Python-MySQL connector and MySQL DB package.
+Managed large datasets using Pandas API to analyze different segments of customers based on Location.
+Development of Python APIs to dump the array structures in the Processor at the failure point for debugging.
+Performed troubleshooting, fixed and deployed many Python bug fixes of the two main applications that were a main source of data for both customers and internal customer service team.
+Automated RabbitMQ cluster installations and configuration using Python/Bash.
+Creating RESTful web services for Catalog and Pricing with Django MVT, MySQL, and MongoDB.
+Collaborated within a team using an agile development workflow and widely-accepted collaboration practices using Git.
+Implemented Multithreading module and complex networking operations like raceroute, SMTP mail server and web server Using Python.
+Used standard Python modules like csv, robotparser, itertools, pickle to ensure privacy of sensitive data.
+Written test cases using PyUnit for better manipulation of test scripts.
+Used automation Jenkins for continuous integration on Amazon EC2.
+Used JIRA for Bug tracking and issue tracking.
+Worked as part of an Agile/Scrum based development team and exposed to TDD approach in developing applications.
+Environment: Python, Django, CherryPy, HTML5, CSS, Bootstrap, JSON, JavaScript, Git, AJAX, RESTful webservice, MySQL, SQLite, Cassandra, AWS (EC2, S3), PyUnit, Karma, Jenkins, Windows.
+
+Client: TD Bank, Torranto	 Aug 2018 - Oct 2019
+Role: Sr.Python Developer        
+Responsibilities:
+Implemented advanced python packages like NumPy, SciPy for various sophisticated numerical and scientific calculations. Performed SQL queries on relational database level to pre-process raw data to form a specific format for later data analysis use and created Python scripts to add eternal connection with Tableau for conducting sentiment analysis.
+Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval. Worked on statistical analysis by processing of collected data and Data Visualization using Python Pandas, Matplotlib, SciPy and NumPy packages.
+Documented the business requirements and framing the business logic for the ETL process. Designed and documented the error-handling strategy in the ETL load process. Prepared the complete ETL specification document for all the ETL flows.
+Developed the ETL detail design documents for each target tables (Fact and dimension tables). Created primary objects (tables, views, indexes) required for the application Designing ETL jobs. Used Informatica as an ETL tool.
+Created real-time dashboard for Executives, utilizing Logstash, graphite, Elastic Search, Kibana & Redis.
+Configured management tools like PUPPET and ANSIBLE jQuery and AJAX call used for more interactive web pages. Ensured quality versioning with GIT. 
+Performed continuous integration and automation using JENKINS & Used JIRA for tracking and Updating Project issue. 
+Responsible for Configuring Kafka Consumer and Producer metrics to visualize the Kafka System performance and monitoring.
+Analyzed the SQL scripts and designed it by using PySpark SQL for faster performance. Worked on data processing and transformations and actions in spark by using PySpark language.
+Developed a fully automated continuous integration system using Git, Jenkins, MySQL, and custom tools developed in Python and Bash. 
+Implemented the MVC architecture using Apache Struts Framework & Experience in Python open stack API's. 
+Worked with Rational ClearCase to provide sophisticated version control, workspace management and parallel development support.
+Developed PySpark programs and created the data frames and worked on transformations. 
+Implemented Docker containers to create images of the applications and dynamically provision slaves to Jenkins CI/CD pipelines. Designed process-oriented UNIX script and ETL processes for loading data into Datawarehouse.
+Created Restful APIs to integrate and enhance functionalities of the application. Also Utilized Restful API in communicating with third parties. 
+Environment: Python, Django, ETL, JQuery, JSON, JavaScript, PostgreSQL, T-SQL, MongoDB, SoapUI, PUPPET, Oracle 11g/10i, Ansible, MySQL, Amazon AWS S3, JIRA.
+
+Client: Bell Canada	 May 2017 - July 2018
+Role: Sr.Python Developer        
+Responsibilities:
+Worked independently and collaboratively throughout the complete analytics project lifecycle in- clouding data
+extraction/preparation, design and implementation of scalable machine learning analysis and solutions, and
+documentation of results.
+Developed entire frontend and backend modules using Python on Django Web Framework.
+Used Django framework for application development.
+Designed and developed the UI of the website using HTML, AJAX, CSS and JavaScript
+Moved the mappings from development environment to test environment.
+Designed ETL Process using Informatica to load data from Flat Files, and Excel Files to target Oracle Data
+Warehouse database.
+Interacted with the business community and database administrators to identify the Business requirements
+and data realties.
+Created various transformations according to the business logic like Source Qualifier, Normalizer, Lookup,
+Stored Procedure, Sequence Generator, Router, Filter, Aggregator, Joiner, Expression and Update Strategy.
+Created Informatica mappings using various Transformations like Joiner, Aggregate, Expression, Filter and
+Update Strategy.
+Implemented Apache Airflow for authoring, scheduling and monitoring Data Pipelines.
+Created tasks and workflows in the Workflow Manager and monitored the sessions in the Workflow Monitor.
+Perform Maintenance, including managing Space, Remove Bad Files, Remove Cache Files and monitoring
+services.
+Designed and developed Web services using XML and jQuery. Improved performance by using more modularized approach and using more in-built methods.
+Built various graphs for business decision making using Python matplotlib library. Used NumPy for Numerical analysis for Insurance premium.
+Worked on ETL Migration services by developing and deploying AWS Lambda functions for generating a serverless data pipeline which can be written to Glue Catalog and can be queried from Athena.
+Created data pipelines for different events to load the data from DynamoDB to AWS S3 bucket and then into
+HDFS location
+Environment: Python, Django, ETL, JQuery, JSON, JavaScript, PostgreSQL, T-SQL, MongoDB, SoapUI, Oracle 11g/10i, MySQL, Amazon AWS S3, JIRA.
+
+Client: Spretnost, Hyderabad, India	           Apr 2014 – Mar 2017
+Role: Python Developer        
+Responsibilities:
+Developed Map Reduce/Spark Python modules for machine learning & amp; predictive analytics in Hadoop on
+AWS. Implemented a Python-based distributed random forest via Python streaming.
+Analyzing and visualizing the data by using Matplotlib and seaborn libraries in Python. Processed the Raw data from CSV files in to organized form by applying Data Cleaning techniques using Pandas and NumPy.
+Documented the design documents using Class Diagrams and Sequence Diagrams using IBM Rational rose.
+Used Python scripts language on LAMP Server to develop web-application with MySQL as the database.
+Used Python libraries like beautiful soup, matplotlib, PyTest, Tweepy, urllib2. 
+Utilized CherryPy coupled with Nginx to serve Python WSGI based applications.
+Designed and maintained databases using Python and developed Python based API (RESTful Web Service) using Flask-SQLAlchemy with Oracle database. 
+Extensively used XML and RESTful Web Services to retrieve and send data from different applications.
+Used CVS as a version control software.
+Performed troubleshooting, fixed and deployed many Python bug fixes of the two main applications that were a main source of data for both customers and internal customer service team.
+Involved in optimizing the python program by following best practices with different Data structures that best enhances the performance of application.
+Created Several XML Schemas and Developed Stored PL/SQL Procedures and Packages to automatically create and drop table indexes.
+Experience in creating test cases using PyUnit framework and used fiddler as logging tool to get detailed report of traffic between clients.
+Involved in doing AGILE practices and planning of sprint attending daily agile meetings and SPRINT meetings to produce quality deliverables within time.
+Environment: Python, Django, CherryPy, HTML, CSS, XML, Bootstrap, JQuery, JSON, JavaScript, SQLAlchemy, IBM Rational Rose, Oracle, MySQL, REST webservices, LAMP.
+
+Education: - University of Phoenix ~ MBA 2009; Bachelors in Business Administration 2006.
+
